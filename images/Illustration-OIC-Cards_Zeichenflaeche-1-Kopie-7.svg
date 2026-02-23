@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295 180">
+  <defs>
+    <style>
+      .e {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .f, .g, .h, .i {
+        stroke-width: 0px;
+      }
+
+      .g {
+        fill: url(#b);
+      }
+
+      .h {
+        fill: url(#c);
+      }
+
+      .i {
+        fill: url(#d);
+      }
+    </style>
+    <linearGradient id="b" data-name="Unbenannter Verlauf 96" x1="152.976" y1="97.301" x2="130.05" y2="63.167" gradientUnits="userSpaceOnUse">
+      <stop offset=".339" stop-color="#87dadc"/>
+      <stop offset=".943" stop-color="#f9f58c"/>
+    </linearGradient>
+    <linearGradient id="c" data-name="Unbenannter Verlauf 90" x1="273.556" y1="90.366" x2="274.183" y2="33.276" gradientUnits="userSpaceOnUse">
+      <stop offset=".105" stop-color="#87dadc"/>
+      <stop offset=".288" stop-color="#ade3c0"/>
+      <stop offset=".478" stop-color="#ceeaa9"/>
+      <stop offset=".661" stop-color="#e5f099"/>
+      <stop offset=".831" stop-color="#f4f38f"/>
+      <stop offset=".977" stop-color="#f9f58c"/>
+    </linearGradient>
+    <linearGradient id="d" data-name="Unbenannter Verlauf 89" x1="213.824" y1="115.401" x2="215.59" y2="43.865" gradientUnits="userSpaceOnUse">
+      <stop offset=".041" stop-color="#87dadc"/>
+      <stop offset=".301" stop-color="#b6e5ba"/>
+      <stop offset=".54" stop-color="#daeda1"/>
+      <stop offset=".734" stop-color="#f0f391"/>
+      <stop offset=".858" stop-color="#f9f58c"/>
+    </linearGradient>
+  </defs>
+  <path class="e" d="m279.343,137.128h-110.572m-167.534,0h111.378"/>
+  <path class="g" d="m119.95,43.654l16.279-2.82,13.409,58.565h-16.433l-13.256-55.745Z"/>
+  <path class="e" d="m261.248,72.567h-37.338l.153,18.744c0,9.311-1.814,16.275-2.722,18.593h37.186c2.176-2.66,2.72-13.605,2.72-18.744v-18.593Z"/>
+  <path class="e" d="m101.268,61.58l15.519-5.334m14.164,42.447l-14.164-42.447-11.836-9.192-3.683,14.526,12.834,37.603"/>
+  <path class="f" d="m105.043,46.858l-1.841,7.263,7.759-2.667-5.918-4.596Z"/>
+  <circle class="e" cx="55.837" cy="70.009" r="23.61"/>
+  <path class="e" d="m88.031,137.62v-11.805c0-17.781-14.414-32.196-32.196-32.196s-32.195,14.414-32.195,32.196v11.805"/>
+  <rect class="e" x="112.312" y="98.861" width="56.33" height="62.386"/>
+  <path class="e" d="m111.916,149.935h57.122"/>
+  <path class="e" d="m165.446,99.398l11.183-55.745-13.735-2.82-11.312,58.565"/>
+  <path class="e" d="m160.913,50.339l16.436,3.242c1.741.343,2.867,2.041,2.507,3.778l-6.279,30.307"/>
+  <path class="e" d="m154.115,85.933l13.329,2.666"/>
+  <path class="e" d="m109.096,59.334l14.58,39.988"/>
+  <path class="e" d="m249.171,18.753h-37.338l.152,18.744c0,9.312-1.814,16.275-2.72,18.593h37.185c2.176-2.66,2.722-13.604,2.722-18.744v-18.593Z"/>
+  <path class="h" d="m293.762,39.16h-37.338l.153,18.744c0,9.311-1.816,16.275-2.722,18.593h37.185c2.178-2.66,2.722-13.605,2.722-18.744v-18.593Z"/>
+  <path class="i" d="m234.34,64.102h-37.338l.153,18.744c0,9.312-1.816,16.275-2.722,18.593h37.185c2.178-2.66,2.722-13.604,2.722-18.744v-18.593Z"/>
+  <path class="e" d="m121.46,49.888l6.002-1.425"/>
+  <path class="e" d="m124.514,62.759l6.002-1.425"/>
+  <path class="e" d="m127.573,75.631l6.002-1.425"/>
+  <path class="e" d="m130.627,88.503l6.002-1.425"/>
+  <path class="e" d="m122.987,56.323l10.314-2.45"/>
+  <path class="e" d="m126.046,69.195l10.314-2.45"/>
+  <path class="e" d="m129.1,82.066l10.314-2.45"/>
+  <path class="e" d="m132.159,94.938l10.314-2.45"/>
+</svg>

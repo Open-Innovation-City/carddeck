@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295 232">
+  <defs>
+    <style>
+      .i {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .j, .k, .l, .m, .n, .o, .p, .q {
+        stroke-width: 0px;
+      }
+
+      .k {
+        fill: url(#b);
+      }
+
+      .l {
+        fill: url(#c);
+      }
+
+      .m {
+        fill: url(#e);
+      }
+
+      .n {
+        fill: url(#f);
+      }
+
+      .o {
+        fill: url(#d);
+      }
+
+      .p {
+        fill: url(#h);
+      }
+
+      .q {
+        fill: url(#g);
+      }
+    </style>
+    <linearGradient id="b" data-name="Unbenannter Verlauf 52" x1="22.778" y1="68.166" x2="68.159" y2="100.818" gradientUnits="userSpaceOnUse">
+      <stop offset=".187" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="c" data-name="Unbenannter Verlauf 47" x1="226.95" y1="41.737" x2="180.462" y2="87.118" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="d" data-name="Unbenannter Verlauf 51" x1="101.703" y1="82.072" x2="126.607" y2="99.782" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="e" data-name="Unbenannter Verlauf 48" x1="233.32" y1="85.621" x2="209.235" y2="119.518" gradientUnits="userSpaceOnUse">
+      <stop offset=".41" stop-color="#f780a8"/>
+      <stop offset=".863" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="f" data-name="Unbenannter Verlauf 46" x1="43.457" y1="-2.619" x2="59.514" y2="23.696" gradientUnits="userSpaceOnUse">
+      <stop offset=".164" stop-color="#f780a8"/>
+      <stop offset=".844" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="g" data-name="Unbenannter Verlauf 50" x1="141.569" y1="200.059" x2="130.153" y2="230.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".206" stop-color="#f9a5c1"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="h" data-name="Unbenannter Verlauf 49" x1="191.698" y1="141.55" x2="216.642" y2="158.039" gradientUnits="userSpaceOnUse">
+      <stop offset=".485" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+  </defs>
+  <path class="i" d="m58.698,15.89l26.289,14.518"/>
+  <path class="i" d="m102.001,45.135l9.89,35.539"/>
+  <path class="i" d="m104.138,91.816l-34.951-3.728"/>
+  <path class="i" d="m30.096,100.203l-24.764,31.833"/>
+  <path class="i" d="m4.155,140.669l71.193,66.068"/>
+  <path class="i" d="m94.656,208.208l21.439-14.711m-20.218,23.46l28.851,1.26"/>
+  <path class="i" d="m119.465,101.846l2.222,6.196"/>
+  <path class="i" d="m132.075,111.632l50.881-31.892"/>
+  <path class="i" d="m205.053,49.664l7.852-20.041"/>
+  <path class="i" d="m206.588,86.79l8.14,14.856"/>
+  <path class="i" d="m216.044,114.771l-4.316,27.859"/>
+  <path class="i" d="m223.5,109.67l16.396,4.19"/>
+  <path class="i" d="m259.571,109.951l28.672-26.962"/>
+  <path class="i" d="m132.209,116.919l-15.351,1.786"/>
+  <path class="i" d="m125.24,125.503l-1.412-15.383"/>
+  <path class="i" d="m119.605,123.882l9.857-12.141"/>
+  <path class="i" d="m118.78,112.798l11.507,10.027"/>
+  <path class="i" d="m223.719,18.626l-15.351,1.787"/>
+  <path class="i" d="m216.75,27.211l-1.411-15.383"/>
+  <path class="i" d="m211.115,25.59l9.857-12.141"/>
+  <path class="i" d="m210.29,14.506l11.506,10.027"/>
+  <path class="i" d="m257.686,115.758l-15.352,1.786"/>
+  <path class="i" d="m250.717,124.343l-1.412-15.383"/>
+  <path class="i" d="m245.081,122.722l9.858-12.141"/>
+  <path class="i" d="m244.257,111.638l11.506,10.027"/>
+  <path class="i" d="m102.013,35.32l-15.351,1.786"/>
+  <path class="i" d="m95.043,43.905l-1.412-15.383"/>
+  <path class="i" d="m89.408,42.284l9.857-12.141"/>
+  <path class="i" d="m88.583,31.2l11.507,10.027"/>
+  <path class="i" d="m92.859,213.16l-15.351,1.786"/>
+  <path class="i" d="m85.89,221.745l-1.412-15.384"/>
+  <path class="i" d="m80.255,220.123l9.857-12.141"/>
+  <path class="i" d="m79.43,209.039l11.507,10.027"/>
+  <circle class="k" cx="46.845" cy="85.482" r="16.749"/>
+  <circle class="l" cx="199.296" cy="68.733" r="16.749"/>
+  <circle class="o" cx="115.192" cy="91.664" r="8.4"/>
+  <circle class="m" cx="217.505" cy="107.878" r="4.599"/>
+  <circle class="j" cx="292.415" cy="79.739" r="2.747"/>
+  <circle class="n" cx="52.272" cy="11.828" r="5.427"/>
+  <circle class="j" cx="119.984" cy="190.75" r="2.747"/>
+  <circle class="q" cx="134.76" cy="218.217" r="7.382"/>
+  <circle class="p" cx="209.372" cy="153.233" r="7.382"/>
+  <circle class="j" cx="2.585" cy="136.075" r="2.747"/>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295 180">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+      }
+
+      .c, .d {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .e {
+        fill: url(#b);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="b" data-name="Unbenannter Verlauf 76" x1="110.753" y1="134.611" x2="176.252" y2="43.676" gradientUnits="userSpaceOnUse">
+      <stop offset=".085" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+  </defs>
+  <rect class="e" x="120.367" y="37.524" width="55.476" height="90.459" rx="7.683" ry="7.683"/>
+  <path class="c" d="m84.342,65.762v71.657"/>
+  <rect class="c" x="57.563" y="3" width="53.555" height="88.538" rx="6.722" ry="6.722"/>
+  <rect class="c" x="66.08" y="13.746" width="36.52" height="21.318" rx="4.802" ry="4.802"/>
+  <rect class="c" x="66.08" y="43.732" width="36.52" height="21.318" rx="4.802" ry="4.802"/>
+  <rect class="c" x="192.399" y="134.067" width="36.52" height="21.318" rx="4.802" ry="4.802"/>
+  <rect class="c" x="192.399" y="103.955" width="16.215" height="21.318" rx="4.802" ry="4.802"/>
+  <rect class="c" x="131.289" y="89.903" width="13.518" height="12.132" rx="2.881" ry="2.881"/>
+  <rect class="c" x="151.405" y="89.903" width="13.518" height="12.132" rx="2.881" ry="2.881"/>
+  <rect class="c" x="183.882" y="88.462" width="53.555" height="88.538" rx="6.722" ry="6.722"/>
+  <rect class="c" x="57.563" y="141.729" width="53.555" height="26.816" rx="6.722" ry="6.722"/>
+  <path class="c" d="m138.049,102.995v33.299c0,4.243,3.44,7.683,7.683,7.683h34.397"/>
+  <path class="c" d="m132.819,51.768h30.986"/>
+  <path class="c" d="m132.819,61.371h30.986"/>
+  <path class="c" d="m132.819,70.974h30.986"/>
+  <path class="c" d="m68.849,150.729h30.986"/>
+  <path class="c" d="m68.849,160.475h30.986"/>
+  <path class="c" d="m132.819,80.577h12.948"/>
+  <circle class="d" cx="84.341" cy="141.978" r="4.537"/>
+  <circle class="d" cx="184.131" cy="143.977" r="4.537"/>
+  <circle class="d" cx="148.105" cy="37.906" r="4.537"/>
+  <path class="c" d="m102.669,24.405h39.886c3.182,0,5.762,2.58,5.762,5.762v3.434"/>
+</svg>

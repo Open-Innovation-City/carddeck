@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295 180">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .d {
+        fill: url(#b);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="b" data-name="Unbenannter Verlauf 24" x1="118.96" y1="58.284" x2="269.348" y2="106.567" gradientUnits="userSpaceOnUse">
+      <stop offset=".066" stop-color="#8f9ae6"/>
+      <stop offset="1" stop-color="#bbe98e"/>
+    </linearGradient>
+  </defs>
+  <path class="c" d="m251.864,10l-121.813,149.58-51.95-49.263-47.471,22.293-21.496-20.103"/>
+  <path class="d" d="m235.735,39.398c16.298,18.82,15.501,46.633-1.032,64.484l8.402,9.703,4.063-3.518,38.699,44.689-17.606,15.245-38.697-44.688,4.063-3.518-8.554-9.878c-19.891,12.645-46.571,9.159-62.464-9.194-17.486-20.193-15.292-50.739,4.901-68.225,20.193-17.486,50.74-15.292,68.225,4.901Z"/>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295 180">
+  <defs>
+    <style>
+      .f {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .g {
+        fill: url(#b);
+        fill-rule: evenodd;
+      }
+
+      .g, .h, .i, .j {
+        stroke-width: 0px;
+      }
+
+      .h {
+        fill: url(#c);
+      }
+
+      .i {
+        fill: url(#e);
+      }
+
+      .j {
+        fill: url(#d);
+      }
+    </style>
+    <linearGradient id="b" data-name="Unbenannter Verlauf 74" x1="127.962" y1="162.656" x2="84.509" y2="116.999" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="c" data-name="Unbenannter Verlauf 73" x1="183.315" y1="60.715" x2="162.848" y2="44.657" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="d" data-name="Unbenannter Verlauf 71" x1="202.487" y1="-1658.014" x2="183.482" y2="-1640.426" gradientTransform="translate(.138 -1597.945) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+    <linearGradient id="e" data-name="Unbenannter Verlauf 72" x1="226.148" y1="-1658.187" x2="207.144" y2="-1640.599" gradientTransform="translate(.138 -1597.945) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#f780a8"/>
+      <stop offset="1" stop-color="#a5e2fb"/>
+    </linearGradient>
+  </defs>
+  <path class="f" d="m147.5,3v174"/>
+  <path class="f" d="m234.5,90.001H60.5"/>
+  <path class="g" d="m123.568,151.075h-36.211c-.992.22-2.023.336-3.082.336-7.792,0-14.109-6.29-14.109-14.05s6.317-14.05,14.109-14.05c1.632,0,3.199.276,4.657.783,1.538-6.101,7.082-10.619,13.685-10.619,7.073,0,12.93,5.182,13.951,11.941,2.077-1.146,4.482-1.801,7.045-1.801,7.854,0,14.22,6.147,14.22,13.729,0,7.425-6.104,13.473-13.731,13.722v.008h-.536Z"/>
+  <circle class="h" cx="169.597" cy="49.952" r="8.286"/>
+  <circle class="j" cx="191.693" cy="49.952" r="8.286"/>
+  <circle class="i" cx="215.167" cy="49.952" r="8.286"/>
+  <path class="f" d="m83.47,51.757l14.773,14.767,26.283-36.144"/>
+  <path class="f" d="m174.307,151.411l36.142-36.142"/>
+  <path class="f" d="m210.45,151.411l-36.142-36.142"/>
+</svg>

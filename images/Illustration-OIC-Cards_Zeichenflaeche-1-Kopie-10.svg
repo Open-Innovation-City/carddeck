@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295 180">
+  <defs>
+    <style>
+      .c {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .d {
+        fill: url(#b);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="b" data-name="Unbenannter Verlauf 54" x1="202.991" y1="144.209" x2="274.865" y2="61.666" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#a5e2fb"/>
+      <stop offset="1" stop-color="#f780a8"/>
+    </linearGradient>
+  </defs>
+  <circle class="c" cx="113.44" cy="26.641" r="22.585"/>
+  <path class="c" d="m82.308,80.421c0-17.194,13.939-31.133,31.133-31.133s31.133,13.939,31.133,31.133v10.831h-62.266v-10.831Z"/>
+  <rect class="c" x="30.004" y="91.251" width="164.021" height="85.749"/>
+  <path class="c" d="m194.555,176.981h77.445v-21.533h-62.88"/>
+  <path class="c" d="m222.787,145.701v-12.72"/>
+  <path class="c" d="m256.766,145.701v-12.72"/>
+  <path class="c" d="m254.087,70.581v-30.061c0-1.191-1.11-2.077-2.277-1.838-3.012.619-8.39,1.599-12.266,1.599s-9.199-.975-12.194-1.595c-1.167-.241-2.28.646-2.28,1.838v30.057"/>
+  <path class="c" d="m82.817,141.965l17.867,10.209,43.385-11.91"/>
+  <path class="c" d="m112.022,134.309l17.224,9.853"/>
+  <path class="c" d="m48.93,109.301h129.023"/>
+  <rect class="d" x="211.545" y="70.587" width="56.081" height="63.189" rx="3.693" ry="3.693"/>
+</svg>
