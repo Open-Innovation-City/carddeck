@@ -74,7 +74,7 @@ strong {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
-  background-image: url('../images/gradient02.svg');
+  background-image: url(../images/gradient02.svg);
   background-position: 50%;
   background-size: cover;
   border-radius: 16px;
@@ -88,13 +88,13 @@ strong {
 
 .card-front.long {
   height: 100%;
-  background-image: url('../images/gradient02.svg');
+  background-image: url(../images/gradient02.svg);
   background-size: cover;
   display: flex;
 }
 
 .card-front._01 {
-  background-image: url('../images/gradient01.svg');
+  background-image: url(../images/gradient01.svg);
   display: flex;
 }
 
@@ -104,26 +104,26 @@ strong {
 }
 
 .card-front._03 {
-  background-image: url('../images/gradient03.svg');
+  background-image: url(../images/gradient03.svg);
 }
 
 .card-front._04 {
-  background-image: url('../images/gradient04.svg');
+  background-image: url(../images/gradient04.svg);
   background-position: 50%;
   background-size: cover;
 }
 
 .card-front._05 {
-  background-image: url('../images/gradient05.svg');
+  background-image: url(../images/gradient05.svg);
   background-position: 50%;
 }
 
 .card-front._06 {
-  background-image: url('../images/gradient06.svg');
+  background-image: url(../images/gradient06.svg);
 }
 
 .card-front.anleitung {
-  background-image: url('../images/gradient01.svg');
+  background-image: url(../images/gradient01.svg);
   justify-content: flex-start;
   display: flex;
 }
@@ -224,7 +224,7 @@ strong {
   backface-visibility: hidden;
   transform-style: preserve-3d;
   background-color: #fff;
-  background-image: url('../images/gradient02b.svg');
+  background-image: url(../images/gradient02b.svg);
   background-position: 50% 100%;
   background-size: auto;
   border-radius: 16px;
@@ -240,30 +240,30 @@ strong {
 .card-back.long {
   height: auto;
   min-height: 530px;
-  background-image: url('../images/card-long-back.svg');
+  background-image: url(../images/card-long-back.svg);
   background-size: cover;
   position: relative;
 }
 
 .card-back._01 {
-  background-image: url('../images/card-back.svg');
+  background-image: url(../images/card-back.svg);
   background-size: cover;
 }
 
 .card-back._02 {
   min-height: 564px;
-  background-image: url('../images/gradient02b_1.svg');
+  background-image: url(../images/gradient02b_1.svg);
   background-position: 50%;
   background-size: cover;
 }
 
 .card-back._03 {
-  background-image: url('../images/gradient03b.svg');
+  background-image: url(../images/gradient03b.svg);
   background-size: cover;
 }
 
 .card-back._04 {
-  background-image: url('../images/gradient04b.svg');
+  background-image: url(../images/gradient04b.svg);
   background-position: 50%;
   background-repeat: repeat;
   background-size: cover;
@@ -271,17 +271,17 @@ strong {
 
 .card-back._05 {
   min-height: 565px;
-  background-image: url('../images/gradient05b.svg');
+  background-image: url(../images/gradient05b.svg);
   background-size: cover;
 }
 
 .card-back._06 {
-  background-image: url('../images/gradient06b.svg');
+  background-image: url(../images/gradient06b.svg);
   background-size: cover;
 }
 
 .card-back.anleitung {
-  background-image: url('../images/card-long-back.svg');
+  background-image: url(../images/card-long-back.svg);
   background-size: cover;
   position: absolute;
 }
@@ -597,7 +597,7 @@ strong {
 .hero-image {
   width: auto;
   height: 480px;
-  background-image: url('../images/Mockup-2-Kopie.png');
+  background-image: url(../images/Mockup-2-Kopie.png);
   background-position: 50%;
   background-size: cover;
   justify-content: center;
@@ -909,7 +909,7 @@ strong {
 .div-block-18 {
   height: 448px;
   max-width: 1440px;
-  background-image: url('../images/Mockup-2-Kopie.png');
+  background-image: url(../images/Mockup-2-Kopie.png);
   background-position: 50%;
   background-size: cover;
   margin-bottom: -40px;
